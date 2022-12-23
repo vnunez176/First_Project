@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// class
 class ViewController: UIViewController {
 
     @IBOutlet weak var firstNameField: UITextField!
